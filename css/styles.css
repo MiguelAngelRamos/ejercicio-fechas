@@ -1,0 +1,7 @@
+body {
+  background-image: url('/img/img-fondo-2.jpg');
+  background-size: cover;
+  color: rgb(204, 227, 104);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1rem;
+}
